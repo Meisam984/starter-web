@@ -19,4 +19,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repo and then issue pull request for review
 
 ### Copyright
-2023 Afsooon.org
+2023 Afsooon.org. All rights reserved.
